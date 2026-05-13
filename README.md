@@ -10,10 +10,10 @@
             <picture>
               <!-- Letras blancas (modo oscuro) -->
               <source media="(prefers-color-scheme: dark)" 
-                      srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FFFFFF&width=435&lines=Hola+%3A)+soy+Ricardo+Palafox;Desarrollador+Fullstack" />
+                      srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&letterSpacing=fast&duration=1600&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&lines=%3E+Hola+%3A)+soy+Ricardo+Palafox;%3E+Desarrollador+Fullstack" />
               <!-- Letras negras (modo claro) -->
               <img alt="Typing SVG" 
-                   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=000000&width=435&lines=Hola+%3A)+soy+Ricardo+Palafox;Desarrollador+Fullstack" />
+                   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&letterSpacing=fast&duration=1600&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=%3E+Hola+%3A)+soy+Ricardo+Palafox;%3E+Desarrollador+Fullstack" />
             </picture>
           </a>
         </div>
